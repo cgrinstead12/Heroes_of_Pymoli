@@ -6,4 +6,4 @@ Our assignment was to do an analysis of a video game called Pylomi. We were give
 
 Our peak age demographic falls between 20-24 (64%) with secondary groups falling between 15-19 (23%) and 25-29 (18%).  
 
-The most popular item was the Oathbreaker, Last Hope of the Breaking Storm . It was purchased 12 times for a total profit of $50.76 followed by Fiery Glass Crusader, which was purchased 9 times for a profit of $41.22. The most items purchased by one user was 5 with an average purchase price of $3.79 for a total profit of $18.95, followed by a user who purchased 4 items for a total profit of $15.45.
+The most popular item was the Oathbreaker, Last Hope of the Breaking Storm . It was purchased 12 times for a total profit of $50.76 followed by Fiery Glass Crusader, which was purchased 9 times for a profit of $41.22. The most items purchased by a singe user was 5 with an average purchase price of $3.79 for a total profit of $18.95, followed by a user who purchased 4 items for a total profit of $15.45.
