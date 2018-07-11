@@ -2,7 +2,7 @@
 
 Heroes Of Pymoli Data Analysis
 
-Our assignment was to do an analysis of a video game called Pylomi. We were given a csv file of purchases by users along with their age and gender. Of the 780 purchases, 576 came from active users, the vast majority of purchases are from male users (113%). There also exists, a smaller, but notable proportion of female players (20%).
+Our assignment was to do an analysis of a video game called Pylomi. We were given a csv file of purchases by users along with their age and gender. Of the 780 purchases, 576 of which came from active users, the vast majority of purchases are from male users (113%). There also exists, a smaller, but notable proportion of female players (20%).
 
 Our peak age demographic falls between 20-24 (64%) with secondary groups falling between 15-19 (23%) and 25-29 (18%).  
 
