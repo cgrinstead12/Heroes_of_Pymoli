@@ -1,8 +1,8 @@
 ![alt text](https://github.com/cgrinstead12/Heroes_of_Pymoli/blob/master/Resources/Fantasy.jpg)
 
-Heroes Of Pymoli Data Analysis
+**Heroes Of Pymoli Data Analysis**
 
-Our assignment was to do an analysis of a video game called Pylomi. We were given a csv file of purchases by users along with their age and gender. The vast majority of the 780 purchases, which came from the 576 unique users, were from male users (113%). There also exists, a smaller, but notable proportion of female players (20%).
+Our assignment was to do an analysis of a video game called Pylomi. We were given a csv file of purchases by users along with their age and gender. The vast majority of the 780 purchases, which came from the 576 unique users, were from male users (113%). Also of note, nearly 20% of the purchases came from female users.
 
 Our peak age demographic falls between 20-24 (64%) with secondary groups falling between 15-19 (23%) and 25-29 (18%).  
 
